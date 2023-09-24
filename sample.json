@@ -3,18 +3,21 @@
         "id":"1",
         "FirstName":"Benjamin",
         "LastName":"Finkel",
-        "Email":"ben.finkel@cbtnetggets.com"
+        "Email":"ben.finkel@cbtnetggets.com",
+        "Active": true
     },
     {
         "id":"2",
         "FirstName":"Jane",
         "LastName":"doe",
-        "Email":"jane.doe@cbtnetggets.com"
+        "Email":"jane.doe@cbtnetggets.com",
+        "Active": false
     },
     {
         "id":"3",
         "FirstName":"Pat",
         "LastName":"Smith",
-        "Email":"pat.smith@cbtnetggets.com"
+        "Email":"pat.smith@cbtnetggets.com",
+        "Active": true
     }
 ]
