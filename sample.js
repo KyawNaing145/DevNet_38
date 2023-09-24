@@ -19,4 +19,4 @@ myObj = [
     }
 ]
 
-console.log(myOBJ[0]);
+console.log(myObj[0]);
