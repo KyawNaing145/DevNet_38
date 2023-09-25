@@ -8,7 +8,7 @@
     },
     {
         "id":2,
-        "FirstName":"Jane",
+        "Name": ["Jane","Doe"],
         "LastName":"doe",
         "Email":"jane.doe@cbtnetggets.com",
         "Active": false

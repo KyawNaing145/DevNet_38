@@ -8,8 +8,7 @@ myObj = { "People":
     },
     {
         "id":2,
-        "FirstName":"Jane",
-        "LastName":"doe",
+        "Name": ["Jane","Doe"],
         "Email":"jane.doe@cbtnetggets.com",
         "Active": false
     },
@@ -22,4 +21,4 @@ myObj = { "People":
 ]
 }
 
-console.log(typeof myObj.People[1].Active);
+console.log(myObj.People[1].Name[1]);
